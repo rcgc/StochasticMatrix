@@ -6,7 +6,7 @@ Run the python script:
 - `python main.py`
 - Choose between the following options
 1. Enter matrix manually
-  - 3) Calculate probability from going to one state to another in n steps
+  - 3)Calculate probability from going to one state to another in n steps
   - 4)Calculate long-term(steady) state of the matrix
   - 5)Identify if matrix is regular or not
   - 6)Exit
