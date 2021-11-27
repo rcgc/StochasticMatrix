@@ -4,6 +4,8 @@ A <b>stochastic process</b> is a mathematical model that evolves over time in a 
 ## How to use it
 Run the python script:
 - `python main.py`
+- Choose between the following options
+  - 1
 
 ## References
 [1]Bolch, G., 2006. Queueing networks and Markov chains. 2nd ed. Hoboken, N.J.: Wiley.
