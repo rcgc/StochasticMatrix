@@ -53,7 +53,7 @@ def check_if_steady_state(matrix, dimension):
 
 def print_menu():
     print("Choose an option: ")
-    print("1) Enter matrix by hand")
+    print("1) Introduce matrix manually")
     print("2) Generate random stochastic matrix")
     print("6) Exit")
 
