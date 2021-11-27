@@ -45,10 +45,10 @@ def check_if_steady_state(matrix, dimension):
     m2 = np.around(m2, 8)
 
     # Happens when zeroes change from place every iteration
-    if m1.all() != m2.all():
-        return False, m2
+    if (m1 == m2).all():
+        return True, m2
 
-    return True, m2
+    return False, m2
 
 
 def print_menu():
