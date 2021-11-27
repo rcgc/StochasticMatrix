@@ -11,6 +11,7 @@ op = int(op)
 
 matrix = []
 
+# Manually introduced matrix
 if op == 1:
     print("Introduce square matrix dimension")
     n = input()
@@ -83,6 +84,7 @@ if op == 1:
                 print("Option not found\n")
     else:
         print("Matrix no stochastic\n")
+# 3X3 generated matrix
 elif op == 2:
     # (100) Generate 3x3 stochastic matrix (randomly) and let user use steps 3, 4 & 5
     n = 3
