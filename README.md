@@ -4,7 +4,8 @@ A <b>stochastic process</b> is a mathematical model that evolves over time in a 
 ## How to use it
 Run the python script:
 - `python main.py`
-- Choose between the following options
+- Choose between the following options:
+
 1. Enter matrix manually
   - 3)Calculate probability from going to one state to another in n steps
   - 4)Calculate long-term(steady) state of the matrix
