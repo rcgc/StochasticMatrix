@@ -5,19 +5,19 @@ A <b>stochastic process</b> is a mathematical model that evolves over time in a 
 Run the python script:
 - `python main.py`
 - Choose between the following options
-  1. Enter matrix manually
-    3. Calculate probability from going to one state to another in n steps
-    4. Calculate long-term(steady) state of the matrix
-    5. Identify if matrix is regular or not
-    6. Exit
-
-  2. Generate random stochastic matrix
-    3. Calculate probability from going to one state to another in n steps
-    4. Calculate long-term(steady) state of the matrix
-    5. Identify if matrix is regular or not
-    6. Exit
-
+1. Enter matrix manually
+  3. Calculate probability from going to one state to another in n steps
+  4. Calculate long-term(steady) state of the matrix
+  5. Identify if matrix is regular or not
   6. Exit
+
+2. Generate random stochastic matrix
+  3. Calculate probability from going to one state to another in n steps
+  4. Calculate long-term(steady) state of the matrix
+  5. Identify if matrix is regular or not
+  6. Exit
+
+6. Exit
 
 ## References
 [1]Bolch, G., 2006. Queueing networks and Markov chains. 2nd ed. Hoboken, N.J.: Wiley.
