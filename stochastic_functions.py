@@ -62,5 +62,5 @@ def print_submenu():
     print("Choose an option")
     print("3) Calculate probability from going to one state to another in n steps")
     print("4) Calculate long-term(steady) state of the matrix")
-    print("5) Identify is matrix regular or not")
+    print("5) Identify if matrix is regular or not")
     print("6) Exit")
