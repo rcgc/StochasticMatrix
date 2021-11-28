@@ -7,7 +7,7 @@ Run the python script:
 - Choose between the following options:
 
 1. Enter matrix manually
-  3) Calculate probability from going to one state to another in n steps
+  - 3)Calculate probability from going to one state to another in n steps
   - 4)Calculate long-term(steady) state of the matrix
   - 5)Identify if matrix is regular or not
   - 6)Exit
@@ -19,6 +19,13 @@ Run the python script:
   - 6)Exit
 
 6. Exit
+
+## Demo
+![Option1](https://github.com/rcgc/StochasticMatrix/blob/master/Screenshot1.png)
+<p><b>Image 1. </b>Enter matrix manually and steady state</p><br>
+
+![Option2](https://github.com/rcgc/StochasticMatrix/blob/master/Screenshot2.png)
+<p><b>Image 2. </b>Random Stochastic Matrix and steady state </p><br>
 
 ## References
 [1]Bolch, G., 2006. Queueing networks and Markov chains. 2nd ed. Hoboken, N.J.: Wiley.
